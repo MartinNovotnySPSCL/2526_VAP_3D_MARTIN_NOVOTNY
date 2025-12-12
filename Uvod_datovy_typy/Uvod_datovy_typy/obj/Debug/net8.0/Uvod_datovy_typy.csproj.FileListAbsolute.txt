@@ -1,0 +1,14 @@
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\bin\Debug\net8.0\Uvod_datovy_typy.exe
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\bin\Debug\net8.0\Uvod_datovy_typy.deps.json
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\bin\Debug\net8.0\Uvod_datovy_typy.runtimeconfig.json
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\bin\Debug\net8.0\Uvod_datovy_typy.dll
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\bin\Debug\net8.0\Uvod_datovy_typy.pdb
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.AssemblyInfoInputs.cache
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.AssemblyInfo.cs
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.csproj.CoreCompileInputs.cache
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.dll
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\refint\Uvod_datovy_typy.dll
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.pdb
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\Uvod_datovy_typy.genruntimeconfig.cache
+R:\VAP3.D\konzolove aplikace\Uvod_datovy_typy\Uvod_datovy_typy\obj\Debug\net8.0\ref\Uvod_datovy_typy.dll

@@ -1,0 +1,15 @@
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.AssemblyInfoInputs.cache
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.AssemblyInfo.cs
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.csproj.CoreCompileInputs.cache
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.sourcelink.json
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\bin\Debug\net8.0\DatoveTypy.exe
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\bin\Debug\net8.0\DatoveTypy.deps.json
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\bin\Debug\net8.0\DatoveTypy.runtimeconfig.json
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\bin\Debug\net8.0\DatoveTypy.dll
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\bin\Debug\net8.0\DatoveTypy.pdb
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.dll
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\refint\DatoveTypy.dll
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.pdb
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.genruntimeconfig.cache
+R:\VAP3.D\konzolove aplikace\DatoveTypy\DatoveTypy\obj\Debug\net8.0\ref\DatoveTypy.dll
