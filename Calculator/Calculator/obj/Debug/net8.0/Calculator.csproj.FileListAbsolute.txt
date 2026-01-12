@@ -1,0 +1,14 @@
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+R:\VAP3.D\konzolove aplikace\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

@@ -1,0 +1,15 @@
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\bin\Debug\net8.0\Funkce.exe
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\bin\Debug\net8.0\Funkce.deps.json
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\bin\Debug\net8.0\Funkce.runtimeconfig.json
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\bin\Debug\net8.0\Funkce.dll
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\bin\Debug\net8.0\Funkce.pdb
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.AssemblyInfoInputs.cache
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.AssemblyInfo.cs
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.csproj.CoreCompileInputs.cache
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.dll
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\refint\Funkce.dll
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.pdb
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.genruntimeconfig.cache
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\ref\Funkce.dll
+R:\VAP3.D\konzolove aplikace\Funkce\Funkce\obj\Debug\net8.0\Funkce.sourcelink.json
