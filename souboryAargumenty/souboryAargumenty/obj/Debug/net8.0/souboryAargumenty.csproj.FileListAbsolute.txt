@@ -1,0 +1,14 @@
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\bin\Debug\net8.0\souboryAargumenty.exe
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\bin\Debug\net8.0\souboryAargumenty.deps.json
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\bin\Debug\net8.0\souboryAargumenty.runtimeconfig.json
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\bin\Debug\net8.0\souboryAargumenty.dll
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\bin\Debug\net8.0\souboryAargumenty.pdb
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.AssemblyInfoInputs.cache
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.AssemblyInfo.cs
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.csproj.CoreCompileInputs.cache
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.dll
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\refint\souboryAargumenty.dll
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.pdb
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\souboryAargumenty.genruntimeconfig.cache
+R:\VAP3.D\konzolove aplikace\souboryAargumenty\souboryAargumenty\obj\Debug\net8.0\ref\souboryAargumenty.dll
